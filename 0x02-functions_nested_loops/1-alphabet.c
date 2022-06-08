@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include "main.h"
+/**
+ * print_alphabet - idk
+ * Return: nothing
+ */
 void print_alphabet(void)
 {
 	char letter;
