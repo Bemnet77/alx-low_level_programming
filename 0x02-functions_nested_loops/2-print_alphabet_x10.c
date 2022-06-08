@@ -1,14 +1,5 @@
 #include <stdio.h>
-void print_alphabet_x10(void);
-/**
- * main - calls function
- * Return: 0
- */
-int main(void)
-{
-	print_alphabet_x10();
-	return (0);
-}
+#include "main.h"
 /**
  * print_alphabet_x10 - print alphabet 10 times
  * Return: it doesn't return
