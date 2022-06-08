@@ -5,7 +5,7 @@
  * times_table - f
  */
 
-void times_table (void)
+void times_table(void)
 {
 	int i, j;
 
