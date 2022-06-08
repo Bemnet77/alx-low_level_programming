@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print-to-98 - file
+ * print_to_98 - file
  * @n: f
  * Return: 0
  */
