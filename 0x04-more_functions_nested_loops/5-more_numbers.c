@@ -1,19 +1,19 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
- * more_numbers - function
+ * more_numbers - kkk
  */
+
 void more_numbers(void)
 {
-	int a, c = 0;
+	int x;
+	int y;
 
-	while (c <= 9)
+	for (y = 0; y < 10; y++)
 	{
-		for (int a = 0; a <= 14; a++)
-		{
-			printf("%d", a);
-		}
+		for (x = 0; x < 15; x++)
+			printf("%d", x);
 		printf("\n");
-		c++;
 	}
 }
