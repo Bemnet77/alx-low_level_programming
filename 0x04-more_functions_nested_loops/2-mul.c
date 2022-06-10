@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 #include "main.h"
 /**
  * mul - multiplies
@@ -8,8 +8,8 @@
  */
 int mul(int a, int b)
 {
-	int c;
+	int mul;
 
-	c = a * b;
-	return (c);
+	mul = a * b;
+	return (mul);
 }
