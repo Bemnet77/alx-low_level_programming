@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- *print_line - file
+ * print_line - file
  * @n: n
  */
 
